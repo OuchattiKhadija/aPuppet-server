@@ -1,4 +1,4 @@
-$(document).ready(function () {
+jQuery(document).ready(function() {
     var ui = new UI();
     window['ui'] = ui;
 
